@@ -1,0 +1,7 @@
+###Test Scraper API
+POST http://localhost:8080/scraper/scrape
+Content-Type: application/json
+
+{
+  "url": "https://youtube.com"
+}
